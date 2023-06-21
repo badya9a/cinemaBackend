@@ -1,4 +1,7 @@
 {
+	"engines": {
+		"node": ">=16.0.0 <19.0.0"
+	},
 	"name": "movie-app-back-end",
 	"description": "Movie application",
 	"version": "0.0.1",
