@@ -1,6 +1,6 @@
 {
 	"engines": {
-		"node": "18.x"
+		"node": "20.x"
 	},
 	"name": "movie-app-back-end",
 	"description": "Movie application",
